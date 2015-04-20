@@ -1,0 +1,210 @@
+Apr 06, 2015 4:38:23 AM queuesSimulator.GUI$3 actionPerformed
+INFO: 
+
+Customer number 1 has arrived at Mon Apr 06 04:35:00 EEST 2015 at register: 1
+
+
+Customer number 2 has arrived at Mon Apr 06 04:37:00 EEST 2015 at register: 2
+
+
+Customer number 3 has arrived at Mon Apr 06 04:41:00 EEST 2015 at register: 3
+
+
+Customer number 4 has arrived at Mon Apr 06 04:44:00 EEST 2015 at register: 4
+
+
+Customer number 5 has arrived at Mon Apr 06 04:48:00 EEST 2015 at register: 5
+
+Customer number 1 has left the store.
+
+
+Customer number 6 has arrived at Mon Apr 06 04:50:00 EEST 2015 at register: 4
+
+
+Customer number 7 has arrived at Mon Apr 06 04:52:00 EEST 2015 at register: 1
+
+Customer number 4 has left the store.
+
+Customer number 3 has left the store.
+
+
+Customer number 8 has arrived at Mon Apr 06 04:54:00 EEST 2015 at register: 3
+
+Customer number 2 has left the store.
+
+
+Customer number 9 has arrived at Mon Apr 06 04:58:00 EEST 2015 at register: 2
+
+
+Customer number 10 has arrived at Mon Apr 06 05:01:00 EEST 2015 at register: 5
+
+
+Customer number 11 has arrived at Mon Apr 06 05:03:00 EEST 2015 at register: 4
+
+
+Customer number 12 has arrived at Mon Apr 06 05:05:00 EEST 2015 at register: 1
+
+Customer number 5 has left the store.
+
+Customer number 6 has left the store.
+
+Customer number 7 has left the store.
+
+
+Customer number 13 has arrived at Mon Apr 06 05:08:00 EEST 2015 at register: 3
+
+Customer number 8 has left the store.
+
+
+Customer number 14 has arrived at Mon Apr 06 05:12:00 EEST 2015 at register: 2
+
+Customer number 9 has left the store.
+
+
+Customer number 15 has arrived at Mon Apr 06 05:15:00 EEST 2015 at register: 4
+
+
+Customer number 16 has arrived at Mon Apr 06 05:18:00 EEST 2015 at register: 1
+
+
+Customer number 17 has arrived at Mon Apr 06 05:21:00 EEST 2015 at register: 3
+
+Customer number 12 has left the store.
+
+
+Customer number 18 has arrived at Mon Apr 06 05:23:00 EEST 2015 at register: 5
+
+Customer number 11 has left the store.
+
+Customer number 13 has left the store.
+
+
+Customer number 19 has arrived at Mon Apr 06 05:26:00 EEST 2015 at register: 5
+
+
+Customer number 20 has arrived at Mon Apr 06 05:30:00 EEST 2015 at register: 3
+
+Customer number 10 has left the store.
+
+
+Customer number 21 has arrived at Mon Apr 06 05:33:00 EEST 2015 at register: 2
+
+
+Customer number 22 has arrived at Mon Apr 06 05:35:00 EEST 2015 at register: 1
+
+Customer number 17 has left the store.
+
+
+Customer number 23 has arrived at Mon Apr 06 05:37:00 EEST 2015 at register: 4
+
+Customer number 16 has left the store.
+
+
+Customer number 24 has arrived at Mon Apr 06 05:41:00 EEST 2015 at register: 4
+
+
+Customer number 25 has arrived at Mon Apr 06 05:45:00 EEST 2015 at register: 3
+
+Customer number 15 has left the store.
+
+
+Customer number 26 has arrived at Mon Apr 06 05:47:00 EEST 2015 at register: 1
+
+
+Customer number 27 has arrived at Mon Apr 06 05:50:00 EEST 2015 at register: 5
+
+Customer number 18 has left the store.
+
+
+Customer number 28 has arrived at Mon Apr 06 05:54:00 EEST 2015 at register: 2
+
+Customer number 20 has left the store.
+
+
+Customer number 29 has arrived at Mon Apr 06 05:58:00 EEST 2015 at register: 1
+
+Customer number 23 has left the store.
+
+Customer number 22 has left the store.
+
+
+Customer number 30 has arrived at Mon Apr 06 06:00:00 EEST 2015 at register: 2
+
+Customer number 21 has left the store.
+
+
+Customer number 31 has arrived at Mon Apr 06 06:03:00 EEST 2015 at register: 3
+
+
+Customer number 32 has arrived at Mon Apr 06 06:06:00 EEST 2015 at register: 3
+
+Customer number 19 has left the store.
+
+
+Customer number 33 has arrived at Mon Apr 06 06:10:00 EEST 2015 at register: 4
+
+Customer number 26 has left the store.
+
+
+Customer number 34 has arrived at Mon Apr 06 06:12:00 EEST 2015 at register: 3
+
+Customer number 25 has left the store.
+
+Customer number 28 has left the store.
+
+
+Customer number 35 has arrived at Mon Apr 06 06:14:00 EEST 2015 at register: 4
+
+Customer number 24 has left the store.
+
+
+Customer number 36 has arrived at Mon Apr 06 06:16:00 EEST 2015 at register: 1
+
+
+Customer number 37 has arrived at Mon Apr 06 06:20:00 EEST 2015 at register: 5
+
+
+Customer number 38 has arrived at Mon Apr 06 06:23:00 EEST 2015 at register: 5
+
+Customer number 27 has left the store.
+
+Customer number 31 has left the store.
+
+
+Customer number 39 has arrived at Mon Apr 06 06:26:00 EEST 2015 at register: 2
+
+
+Customer number 40 has arrived at Mon Apr 06 06:28:00 EEST 2015 at register: 1
+
+
+Customer number 41 has arrived at Mon Apr 06 06:30:00 EEST 2015 at register: 2
+
+
+Customer number 42 has arrived at Mon Apr 06 06:33:00 EEST 2015 at register: 4
+
+Customer number 30 has left the store.
+
+Customer number 37 has left the store.
+
+Customer number 33 has left the store.
+
+Customer number 32 has left the store.
+
+Customer number 36 has left the store.
+
+Customer number 38 has left the store.
+
+Customer number 39 has left the store.
+
+Customer number 35 has left the store.
+
+Customer number 34 has left the store.
+
+Customer number 40 has left the store.
+
+Customer number 42 has left the store.
+
+Customer number 41 has left the store.
+
+The average waiting time for this store is: 12 minutes.
+The average service time for this store is: 5 minutes.
